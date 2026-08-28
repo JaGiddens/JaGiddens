@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently a senior at the University of Illinois Urbana-Champaign majoring in Statistics and minoring in Data Science and Computer Science, and I'm passionate about working with unfamiliar data.
 
-I love the process of getting to know a new dataset. To me, getting a new dataset is a lot like meeting a new person or picking up a new hobby, it takes time to really get to know it. I have to sit with it, pick it apart, and understand its quirks and perspective before the patterns and anomalies start to reveal themselves. That process of getting to know a dataset is genuinely one of my favorite parts of data work.
+I love the process of getting to know a new dataset. To me, getting a new dataset is a lot like meeting a new person or picking up a new hobby, it takes time to really get to know it. I have to sit with it, pick it apart, and understand its quirks and perspective before the patterns and anomalies start to reveal themselves. That process of getting to know a dataset is genuinely one of my favorite parts of data work. (Hence why you'll see that my projects cover a pretty wide range of topics, from price indices to air pollutant measurements 😊)
 
 
 ## What I'm passionate about
