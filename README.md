@@ -31,7 +31,7 @@ I love the process of getting to know a new dataset. To me, getting a new datase
 
 
 ## Languages & Tools
-**Languages:** Python, SQL, Java, C++
+**Languages:** Python, SQL, C++, R
 
 **Analytics:** Tableau, Excel (PivotTables, Power Query), Looker Studio, Google Analytics, Google BigQuery
 
